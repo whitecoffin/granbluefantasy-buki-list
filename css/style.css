@@ -173,7 +173,13 @@ h3 {
 
 .modal__series {
 	font-size: 12px;
-    margin: 0 10px 0 0;
+    margin: 0;
+}
+
+.modal__number-of-needed {
+    font-size: 12px;
+    margin: 0;
+    margin-right: 3.3%;
 }
 
 .modal__close {
